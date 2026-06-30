@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5d0018/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十四
+  hash: sha256:59b6c5006a29a1c169640e5600631b30d9a17b0b2b0283c6e596da3e89cb6da6
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5d0018_WYG_000-1a, image: WYG1058/WYG1058-0557a.png}
+body:
+  text: 周易參同契考異道家𩔖提要臣等謹案周易參同契考異一卷宋朱子撰考陳振孫書録觧題稱朱子以參同契詞韻皆古奥雅難通讀者淺聞妄輙更改比他書尤多舛誤因合諸本更相讐正朱子自䟦亦稱凡諸同異悉存之以備考訂故以考異為名今按書中注明同異者惟天下然後治之治字云或作理威光鼎乃熺之熺字云本作僖參證他本者不過二處又如修字疑作循六五疑作廿六鉛字疑作飴與字疑作為之𩔖朱子所自校者亦祗六七處其餘每節之下隨文詮釋實皆箋註之體不盡訂正文字乃以考異為名未喻其㫖䟦末自署空同道士鄒訢葢以鄒本邾國其後去邑而為朱故以寓姓禮記鄭氏註謂訢當作熹又集韻熹虚其切訢亦虚其切故以寓名殆以䆒心丹訣非儒者之本務故託諸廋詞歟考朱子語録論參同契諸條頗為詳盡年譜亦載有慶元三年蔡元定将編管道州與朱子㑹宿寒泉精舍夜論參同契一事文集又有答蔡季通書曰參同契更無縫隙亦無心思量但望他日為劉安之雞犬耳云云葢遭逢世難不得已而託諸神仙殆與韓愈謫潮州時邀大顛同游之意相𩔖故黄瑞節附録謂其師弟子有脱屣世外之意深得其情黄震日抄乃曰參同契者上虞人魏伯陽作其説出於神仙不足憑近世蔡季通學博而不免於嘗留意此書而晦菴與之游因為校正其書頗行於世而求其義則絶無之云云其持論固正然未喻有託而逃之意也乾隆四十六年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:c6b31a43691a96b9916f4c31d74cbee31301d9ab9fa1b876e432af3b2432b8e1
+metadata:
+  title: 周易參同契(三)
+  edition:
+    short: WYG
+    label: 【四部全書・文淵閣】
+  date: '2015-08-29 00:59:21.209111'
+  source:
+    repository: kanripo
+    path: KR5d0018/KR5d0018_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:0663adb71259ff177fe4f4de8f032f434daf228aa5205eb6e1c44af2c4fff5c3

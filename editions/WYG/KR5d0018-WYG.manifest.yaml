@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR5d0018/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR5d0018/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 周易參同契(三)
+  date: '2015-08-29 00:59:21.209111'
+  source:
+    repository: kanripo
+    path: KR5d0018
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: WYG
+    label: 【四部全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5d0018_000-WYG.yaml, hash: 'sha256:0663adb71259ff177fe4f4de8f032f434daf228aa5205eb6e1c44af2c4fff5c3'}
+  - {seq: 1, filename: KR5d0018_001-WYG.yaml, hash: 'sha256:4db45ba18a4ee7183e964751212f1d089aa7b7a63ef877d12dc14e50d062b3fe'}
+  - {seq: 2, filename: KR5d0018_002-WYG.yaml, hash: 'sha256:2a4e5a40f455df8ae59c68cc2a9236387841d235c0b3ff0995a9cc285c10b225'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5d0018_000-WYG.markers.yaml, hash: 'sha256:5503e2f07e836a5e36f5a7788f1e422b179541f0afb7973aa2659d8c5fac1887'}
+  - {seq: 1, role: markers, filename: assets/KR5d0018_001-WYG.markers.yaml, hash: 'sha256:d744de8df38f82e12dabbec8d82a130ef43c1e65b05722ddb5996b9be3cf1e8d'}
+  - {seq: 2, role: markers, filename: assets/KR5d0018_002-WYG.markers.yaml, hash: 'sha256:c6979b0db1bec0ffbcb7b79e0de8020a39e2cf6bb5ee5b0c9ff1efd36b3e64d3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5d0018_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 530
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5d0018_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 11205
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5d0018_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 1114
+  label: juan 002
+  type: section
+  level: 1
+hash: sha256:a0c0f855694c16d9a5695d22ee2731568ae5cd9355976a0bb25cc91e8057ed29
